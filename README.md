@@ -13,9 +13,9 @@ sklearn 0.20.0</br>
 matplotlib 3.1.2</br>
 Pillow 4.1.1</br>
 
-The next step is to clone the repository:
+To clone the repository:
 ```bash
-git clone https://github.com/pliang279/LG-FedAvg.git
+git clone https://github.com/pan0517/Master_thesis_code.git
 ```
 
 ## Data

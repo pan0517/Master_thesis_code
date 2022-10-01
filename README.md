@@ -13,6 +13,11 @@ sklearn 0.20.0</br>
 matplotlib 3.1.2</br>
 Pillow 4.1.1</br>
 
+The next step is to clone the repository:
+```bash
+git clone https://github.com/pliang279/LG-FedAvg.git
+```
+
 ## Data
 
 We run experiments on MNIST ([link](http://yann.lecun.com/exdb/mnist/)) and CIFAR10 ([link](https://www.cs.toronto.edu/~kriz/cifar.html)).

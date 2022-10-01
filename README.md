@@ -27,8 +27,6 @@ Results can be reproduced running the following:
 #### CIFAR10 
 > python main_fed_energy.py --dataset cifar10 --model cnn --num_classes 10 --epochs 2000 --lr 0.1 --num_users 100 --shard_per_user 10 --frac 0.5 --local_ep 1 --local_bs 50 --results_save run1 -- iid --server_capacity 50
 
-```
-
 # Acknowledgements
 
 This codebase was adapted from https://github.com/pliang279/LG-FedAvg.

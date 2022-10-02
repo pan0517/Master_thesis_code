@@ -22,7 +22,7 @@ git clone https://github.com/pan0517/Master_thesis_code.git
 
 We run experiments on MNIST ([link](http://yann.lecun.com/exdb/mnist/)) and CIFAR10 ([link](https://www.cs.toronto.edu/~kriz/cifar.html)).
 
-## FedAvg
+## EEFL
 
 Results can be reproduced running the following:
 
